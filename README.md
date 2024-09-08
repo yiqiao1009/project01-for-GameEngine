@@ -1,2 +1,2 @@
-# project01-for-GameEngine
-Design a Web Game due to the course request.
+# About my first project in GitHub
+#There's actually nothing to say, just to follow the document and test it. Simply a homework.
